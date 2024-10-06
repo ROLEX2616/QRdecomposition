@@ -1,4 +1,5 @@
-# Algorithm for QR Decomposition
+## DATE:
+# EX:8- Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
